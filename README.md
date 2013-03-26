@@ -101,3 +101,8 @@ elite[dot]linux[at]gmail[dot]com
 Subjet: Console
 
 
+Follow Me
+=======
+-----
+http://about.me/elitelinux
+
