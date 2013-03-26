@@ -68,6 +68,11 @@ put in the PATH If you wanna ;
 
 * $ export PATH=$PATH:/path/to/scripts/
 
+then
+
+runs the script the way you like ;)
+
+
 How much is the cost for this scripts?
 =======
 -----
