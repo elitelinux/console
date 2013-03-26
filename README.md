@@ -6,15 +6,17 @@ Shell Scripts to get FUN in Console! Linux, FreeBSD Unix MacOS and Others
 
 Summary:
 
-* What is this?
-=======
-* What can console do for me?
-=======
-* Why console is created and good for me?
-=======
-
-
-
+1. What is this?
+2. What can console do for me?
+3. Why console is created and good for me?
+4. When to run this scripts?
+5. Where I can run these scripts?
+6. Who can run these scripts?
+7. How I can run these scripts in the console?
+8. License
+9. Support
+10. Fix, upgrades and suggestions
+11. Follow Me
 
 What is this?
 =======
@@ -47,7 +49,7 @@ Who can run these scripts?
 -----
 These scripts can be executed by a person with basic knowledge about using the console, execute permissions and privileges restrictions
 
-how I can run these scripts in the console?
+How I can run these scripts in the console?
 =======
 -----
 
