@@ -4,6 +4,18 @@ console
 
 Shell Scripts to get FUN in Console! Linux, FreeBSD Unix MacOS and Others
 
+Summary:
+
+* What is this?
+=======
+* What can console do for me?
+=======
+* Why console is created and good for me?
+=======
+
+
+
+
 What is this?
 =======
 -----
