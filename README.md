@@ -6,7 +6,7 @@ Shell Scripts to get FUN in Console! Linux, FreeBSD Unix MacOS and Others
 
 Summary:
 
-1. What is this?
+1. [What is this?](https://github.com/elitelinux/console#what-is-this)
 2. What can console do for me?
 3. Why console is created and good for me?
 4. When to run this scripts?
@@ -16,7 +16,7 @@ Summary:
 8. License
 9. Support
 10. Fix, upgrades and suggestions
-11. Follow Me
+11. [Follow Me](https://github.com/elitelinux/console#follow-me)
 
 What is this?
 =======
