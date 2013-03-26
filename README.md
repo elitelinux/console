@@ -36,22 +36,36 @@ $ chmod +x /path/to/scripts/mi_script.sh
 $ chmod 0755 /path/to/scripts/mi_script.sh
 
 get into path
-$ cd /path/to/scripts
+* $ cd /path/to/scripts
 then
-$ ./mi_script.sh
+* $ ./mi_script.sh
 or
-$ ./path/to/scripts/mi_script.sh
+* $ ./path/to/scripts/mi_script.sh
 or
-$ sh mi_script.sh
+* $ sh mi_script.sh
 or
-$ source ./mi_script.sh
+* $ source ./mi_script.sh
 or 
 put in the PATH If you wanna ;
-$ export PATH=$PATH:/path/to/scripts/
+* $ export PATH=$PATH:/path/to/scripts/
 
 How much is the cost for this scripts?
 =======
 Its Free! and Open!
+
+LICENSE
+=======
+
+PredictionIO source files are made available under the terms of the [GNU Affero General Public License](http://www.gnu.org/licenses/agpl-3.0.html) (AGPL).
+
+SUPPORT
+===========
+
+Forum
+-----
+
+https://groups.google.com/group/ <== coming soon
+
 
 Fix, upgrades and suggestions
 =======
