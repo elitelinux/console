@@ -7,15 +7,15 @@ Shell Scripts to get FUN in Console! Linux, FreeBSD Unix MacOS and Others
 Summary:
 
 1. [What is this?](https://github.com/elitelinux/console#what-is-this)
-2. What can console do for me?
-3. Why console is created and good for me?
-4. When to run this scripts?
-5. Where I can run these scripts?
-6. Who can run these scripts?
-7. How I can run these scripts in the console?
-8. License
-9. Support
-10. Fix, upgrades and suggestions
+2. [What can console do for me?](https://github.com/elitelinux/console#what-can-console-do-for-me)
+3. [Why console is created and good for me?](https://github.com/elitelinux/console#why-console-is-created-and-good-for-me)
+4. [When to run this scripts?](https://github.com/elitelinux/console#when-to-run-this-scripts)
+5. [Where I can run these scripts?](https://github.com/elitelinux/console#where-i-can-run-these-scripts)
+6. [Who can run these scripts?](https://github.com/elitelinux/console#who-can-run-these-scripts)
+7. [How I can run these scripts in the console?](https://github.com/elitelinux/console#how-i-can-run-these-scripts-in-the-console)
+8. [License](https://github.com/elitelinux/console#license)
+9. [Support](https://github.com/elitelinux/console#support)
+10. [Fix, upgrades and suggestions](https://github.com/elitelinux/console#fix-upgrades-and-suggestions)
 11. [Follow Me](https://github.com/elitelinux/console#follow-me)
 
 What is this?
